@@ -5,7 +5,8 @@ I’m a Full Stack Developer who thrives on turning ideas into reality. I love b
 
 I currently live around the greater Orlando area with my world-traveling family and floppy-eared pup.
 
-
+Github
+-----------------------------------------------------------------------------------------------------------
 
 ![Heather's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HM-Pfeiffer&rank_icon=github&hide=issues&theme=tokyonight)
 

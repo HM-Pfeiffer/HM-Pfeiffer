@@ -1,6 +1,6 @@
 # Hi, I'm Heather 👋
 
-## I’m a Full Stack Developer who thrives on turning ideas into reality. 
+### I’m a Full Stack Developer who thrives on turning ideas into reality. 
 
 #### I love blending creativity and functionality. Whether I’m building smooth APIs or optimizing performance, I’m all about delivering engaging, high-quality solutions that make an impact. 
 

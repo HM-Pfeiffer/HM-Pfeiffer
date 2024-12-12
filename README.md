@@ -1,11 +1,10 @@
-Hi, I'm Heather 👋
------------------------------------------------------------------------------------------------------------
+# Hi, I'm Heather 👋
 
-I’m a Full Stack Developer who thrives on turning ideas into reality. 
+## I’m a Full Stack Developer who thrives on turning ideas into reality. 
 
-I love blending creativity and functionality. Whether I’m building smooth APIs or optimizing performance, I’m all about delivering engaging, high-quality solutions that make an impact. 
+#### I love blending creativity and functionality. Whether I’m building smooth APIs or optimizing performance, I’m all about delivering engaging, high-quality solutions that make an impact. 
 
-I currently live around the greater Orlando area with my world-traveling family and floppy-eared pup.
+#### I currently live around the greater Orlando area with my world-traveling family and floppy-eared pup.
 
 
 Tech Stack

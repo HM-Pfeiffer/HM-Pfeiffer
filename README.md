@@ -2,9 +2,12 @@
 
 ### I’m a Full Stack Developer who thrives on turning ideas into reality. 
 
-#### I love blending creativity and functionality. Whether I’m building smooth APIs or optimizing performance, I’m all about delivering engaging, high-quality solutions that make an impact. 
+I love blending creativity and functionality. Whether I’m building smooth APIs or optimizing performance, I’m all about delivering engaging, high-quality solutions that make an impact.
 
-#### I currently live around the greater Orlando area with my world-traveling family and floppy-eared pup.
+> "The most dangerous phrase in the language is, 'We've always done it this way.'" 
+– Grace Hopper
+
+I currently live around the greater Orlando area with my world-traveling family and floppy-eared pup. 🐶
 
 
 ## Tech Stack

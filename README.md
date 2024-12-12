@@ -7,11 +7,6 @@ I love blending creativity and functionality. Whether I’m building smooth APIs
 
 I currently live around the greater Orlando area with my world-traveling family and floppy-eared pup.
 
-Github
------------------------------------------------------------------------------------------------------------
-
-![Heather's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HM-Pfeiffer&rank_icon=github&hide=issues&theme=tokyonight)
-
 
 Tech Stack
 -----------------------------------------------------------------------------------------------------------
@@ -26,6 +21,11 @@ Tech Stack
 ![image8](https://camo.githubusercontent.com/e01b1cfdcc52e26519db194c2a7b4b93eafe7a614a0dab69cfe967864a8f1119/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642)
 ![image9](https://camo.githubusercontent.com/7f9fc6aa722ec29578bf496afb870a37ac9f252dd364d30a248d56030d9bd496/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f566974652d6f72616e67653f6c6f676f3d76697465267374796c653d666f722d7468652d6261646765)
 ![image10](https://camo.githubusercontent.com/49e67c5991480c6fd3fb909c138b2e4b7e72608b863de455559120090f7907f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e5f4157532d4646393930303f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465)
+
+Github
+-----------------------------------------------------------------------------------------------------------
+
+![Heather's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HM-Pfeiffer&rank_icon=github&hide=issues&theme=tokyonight)
 <!---
 HM-Pfeiffer/HM-Pfeiffer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

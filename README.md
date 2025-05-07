@@ -22,7 +22,7 @@ I currently live around the greater Orlando area with my world-traveling family 
 <!-- <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width=7%> <!-- Vite/Vitest --> 
 <!--<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width=7%> <!--NPM --> 
 
-## Github
+## Github / DSA
 
 <table border="0">
   <tr>

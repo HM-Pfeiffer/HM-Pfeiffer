@@ -2,6 +2,8 @@
 
 ### I’m a Full Stack Developer who thrives on turning ideas into reality. 
 
+![Space](https://images.unsplash.com/photo-1484589065579-248aad0d8b13?ixlib=rb-4.1.0&auto=format&fit=crop&w=1000&h=20&crop=entropy)
+
 I love blending creativity and functionality. Whether I’m building smooth APIs or optimizing performance, I’m all about delivering engaging, high-quality solutions that make an impact.
 
 > "The most dangerous phrase in the language is, 'We've always done it this way.'" 
@@ -59,4 +61,6 @@ Connect with Me
 -----------------------------------------------------------------------------------------------------------
 
 <img src="https://camo.githubusercontent.com/2ade4ab86a61ae1e7487150777258e074d792df66b2c5a8681661181f0c30c8d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612672616e6b5f69636f6e3d676974687562" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anuraghazra&amp;rank_icon=github" style="max-width: 100%;">
+![Birds on a wire](https://images.unsplash.com/photo-1482991529358-e0480566d724?ixlib=rb-4.1.0&auto=format&fit=crop&w=900&h=200&crop=entropy)
+![Leaf Border](https://images.unsplash.com/photo-1519370855830-34c503c41d0f?ixlib=rb-4.1.0&auto=format&fit=crop&w=1000&h=15&crop=entropy)
 --->

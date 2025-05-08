@@ -2,8 +2,7 @@
 
 ### I’m a Full Stack Developer who thrives on turning ideas into reality. 
 
-![Duck](https://images.unsplash.com/photo-1649055984069-e075c1074256?ixlib=rb-4.1.0&auto=format&fit=crop&w=1000&h=150&crop=entropy)
-
+![Duck](https://images.unsplash.com/photo-1649055984069-e075c1074256?ixlib=rb-4.1.0&auto=format&fit=crop&w=800&h=120&crop=entropy)
 
 #### I love blending creativity and functionality. Whether I’m building smooth APIs or optimizing performance, I’m all about delivering engaging, high-quality solutions that make an impact.
 

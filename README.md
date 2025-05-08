@@ -2,7 +2,8 @@
 
 ### I’m a Full Stack Developer who thrives on turning ideas into reality. 
 
-![Duck](https://images.unsplash.com/photo-1649055984069-e075c1074256?ixlib=rb-4.1.0&auto=format&fit=crop&w=800&h=120&crop=entropy)
+![Duck](https://images.unsplash.com/photo-1649055984069-e075c1074256?ixlib=rb-4.1.0&auto=format&fit=crop&w=700&h=110&crop=focalpoint&fp-y=.65)
+
 
 #### I love blending creativity and functionality. Whether I’m building smooth APIs or optimizing performance, I’m all about delivering engaging, high-quality solutions that make an impact.
 
@@ -64,4 +65,5 @@ Connect with Me
 ![Birds on a wire](https://images.unsplash.com/photo-1482991529358-e0480566d724?ixlib=rb-4.1.0&auto=format&fit=crop&w=900&h=200&crop=entropy)
 ![Leaf Border](https://images.unsplash.com/photo-1519370855830-34c503c41d0f?ixlib=rb-4.1.0&auto=format&fit=crop&w=1000&h=15&crop=entropy)
 ![Space](https://images.unsplash.com/photo-1484589065579-248aad0d8b13?ixlib=rb-4.1.0&auto=format&fit=crop&w=1000&h=20&crop=entropy)
+![Duck](https://images.unsplash.com/photo-1649055984069-e075c1074256?ixlib=rb-4.1.0&auto=format&fit=crop&w=800&h=120&crop=entropy)
 --->

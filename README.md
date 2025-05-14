@@ -34,7 +34,7 @@ I currently live around the greater Orlando area with my world-traveling family 
     </td>
     <td>
      <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HM-Pfeiffer&hide_longest_streak=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HM-Pfeiffer&hide_longest_streak=true&theme=tokyonight" alt="GitHub Streak" />
      </a>
     </td>
   </tr>

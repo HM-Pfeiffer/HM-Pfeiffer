@@ -27,7 +27,7 @@ I currently live around the greater Orlando area with my world-traveling family 
 
 ## Github / DSA
 
-<table border="0">
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=HM-Pfeiffer&rank_icon=github&hide=issues&theme=tokyonight" alt="Heather's GitHub Stats" />

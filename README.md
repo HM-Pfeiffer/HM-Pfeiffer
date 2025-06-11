@@ -30,7 +30,7 @@ I currently live around the greater Orlando area with my world-traveling family 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=HM-Pfeiffer&rank_icon=github&hide=issues,contributions&theme=tokyonight" alt="Heather's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=HM-Pfeiffer&rank_icon=github&hide=issues,contribs&theme=tokyonight" alt="Heather's GitHub Stats" />
     </td>
     <td>
      <a href="https://git.io/streak-stats">

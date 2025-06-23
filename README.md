@@ -34,12 +34,14 @@ I currently live around the greater Orlando area with my world-traveling family 
     </td>
     <td>
      <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HM-Pfeiffer&hide_longest_streak=true&theme=tokyonight&exclude_days=Mon,Fri,Sat" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HM-Pfeiffer&hide_longest_streak=true&hide_current_streak=true&theme=tokyonight" alt="GitHub Streak" />
      </a>
     </td>
   </tr>
 </table>
 
+
+<!--      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HM-Pfeiffer&hide_longest_streak=true&theme=tokyonight&exclude_days=Mon,Fri,Sat" alt="GitHub Streak" /> -->
 <!---
 HM-Pfeiffer/HM-Pfeiffer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
